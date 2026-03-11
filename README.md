@@ -20,18 +20,18 @@ Nginx Web Server
 HTML Website
 
 
-##Features Implemented 
+## Features Implemented 
 Linux Server installation
 Nginx web hosting
 Firewall configuration
-SSH secutity hardening
-Automated backups using corn
+SSH security hardening
+Automated backups using cron
 log monitoring with /var/log/nginx/access.log
 
 
 ## Commands Used
 ### Install Nginx
-sudo aptinstall nginx
+sudo apt install nginx
 
 ### Start Nginx
 sudo systemctl start nginx
