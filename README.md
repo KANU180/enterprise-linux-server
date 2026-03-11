@@ -7,7 +7,7 @@ Ubuntu Linux
 Nginx Web Server
 SSH
 UFW Firewall
-Cron JObs
+Cron Jobs
 Log Monitoring
 
 ## Architecture
